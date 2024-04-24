@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1713884321,,"wq!"
+|2,0,1713927351,,"wq!"
+:w!
+|2,0,1713927341,,"w!"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +27,29 @@
 # Registers:
 
 # File marks:
-'0  1  35  ~/Docker_All/docker_ex.py
-|4,48,1,35,1713884321,"~/Docker_All/docker_ex.py"
+'0  6  24  ~/Docker_All/dockerfile
+|4,48,6,24,1713927351,"~/Docker_All/dockerfile"
+'1  1  35  ~/Docker_All/docker_ex.py
+|4,49,1,35,1713884321,"~/Docker_All/docker_ex.py"
 
 # Jumplist (newest first):
+-'  6  24  ~/Docker_All/dockerfile
+|4,39,6,24,1713927351,"~/Docker_All/dockerfile"
+-'  1  0  ~/Docker_All/dockerfile
+|4,39,1,0,1713927328,"~/Docker_All/dockerfile"
+-'  1  35  ~/Docker_All/docker_ex.py
+|4,39,1,35,1713884321,"~/Docker_All/docker_ex.py"
 -'  1  35  ~/Docker_All/docker_ex.py
 |4,39,1,35,1713884321,"~/Docker_All/docker_ex.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/Docker_All/dockerfile
+	*	1713927341	0
+	"	6	24
+	^	6	25
+	.	6	24
+	+	6	24
 
 > ~/Docker_All/docker_ex.py
 	*	1713884315	0
